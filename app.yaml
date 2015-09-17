@@ -1,4 +1,4 @@
-application: just-surge-107008
+application: browseanything
 version: secureable
 runtime: python27
 api_version: 1
