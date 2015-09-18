@@ -65,11 +65,10 @@ IGNORE_HEADERS = frozenset([
 TRANSFORMED_CONTENT_TYPES = frozenset([
   "text/html",
   "text/css",
-  "application/pdf",
 ])
 
 
-MAX_CONTENT_SIZE = 10 ** 9
+MAX_CONTENT_SIZE = 10 ** 6
 
 MAX_URL_DISPLAY_LENGTH = 50
 
