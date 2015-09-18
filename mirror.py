@@ -65,6 +65,7 @@ IGNORE_HEADERS = frozenset([
 TRANSFORMED_CONTENT_TYPES = frozenset([
   "text/html",
   "text/css",
+  "application/pdf",
 ])
 
 
