@@ -2,7 +2,7 @@
 
 <h4>Steps</h4>
 <ol>
-  <li>Go to <a href="appengine.google.com">Appengine</a> and create a new project
+  <li>Go to <a href="https://appengine.google.com">Appengine</a> and create a new project
   <li>Pick an <b>appid</b> and note it down
   <li>Download the <a href="https://storage.googleapis.com/appengine-sdks/featured/GoogleAppEngine-1.9.26.msi">appengine SDK</a>
   <li>Install the appengine SDK
@@ -12,3 +12,10 @@
   <li>Now, click <b>deploy</b> and enter your Google login if it prompts.
   <li>Now, your proxy server is deployed to <b>appid.appspot.com</b>
 </ol>
+
+
+<h4>Hints</h4>
+<ul>
+  <li>You can edit the <b>main.html</b> file to suit your needs
+  <li><a href="http://browseanything.appspot.com">Link</a> to a sample deployment
+</ul>
